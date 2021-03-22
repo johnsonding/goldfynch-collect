@@ -673,7 +673,7 @@ welcome
 }
 
 .welcome-area .header-text h1 {
-  font-weight: 900;
+  font-weight: 500;
   font-size: 52px;
   line-height: 80px;
   letter-spacing: 1px;
@@ -683,6 +683,7 @@ welcome
 
 .welcome-area .header-text h1 em {
   font-style: normal;
+  font-weight: 300;
   color: #fba70b;
 }
 
@@ -876,8 +877,8 @@ testimonials
 }
 
 #testimonials .item .testimonial-content {
-  background: rgb(244,129,63);
-  background: linear-gradient(145deg, rgba(244,129,63,1) 0%, rgba(241,85,106,1) 100%);
+  background: #8556ff;
+  background: linear-gradient(145deg, #f5c251 0%, #8556ff 100%);
   margin-left: 60px;
   padding: 40px 30px;
   text-align: center;
@@ -930,8 +931,8 @@ testimonials
   line-height: 80px;
   text-align: center;
   display: inline-block;
-  background: rgb(244,129,63);
-  background: linear-gradient(145deg, rgba(244,129,63,1) 0%, rgba(241,85,106,1) 100%);
+  background: #8556ff;
+  background: linear-gradient(145deg, #8556ff 0%, #f5c251 100%);
   position: absolute;
 }
 
@@ -947,8 +948,8 @@ testimonials
   line-height: 80px;
   text-align: center;
   display: inline-block;
-  background: rgb(244,129,63);
-  background: linear-gradient(145deg, rgba(244,129,63,1) 0%, rgba(241,85,106,1) 100%);
+  background: #8556ff;
+  background: linear-gradient(145deg, #8556ff 0%, #f5c251 100%);
   position: absolute;
 }
 
